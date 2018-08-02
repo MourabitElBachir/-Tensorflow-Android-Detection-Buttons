@@ -34,7 +34,7 @@ on API >= 14 devices.
 
 1. [Detection des boutons | Tensorflow : enabled](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/android/src/org/tensorflow/demo/ClassifierActivity.java):
         Demonstrates an Faster-RCNN model trained using the
-        model to classify camera uploded or taken images, with displaying the recognition results.
+        [Tensorflow Object Detection API](https://gitlab-lyon.sqli.com/ebmourabit/visual-recognition-server-control-ionic-back) to classify camera uploded or taken images, with displaying the recognition results.
 
 2. [TF Classify : disabled](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/android/src/org/tensorflow/demo/ClassifierActivity.java):
         Uses the [Google Inception](https://arxiv.org/abs/1409.4842)
