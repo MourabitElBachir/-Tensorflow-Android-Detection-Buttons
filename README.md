@@ -54,7 +54,7 @@ on API >= 14 devices.
     for a small set of words, and highlights them in the UI when they are
     recognized.
         
-<img src="sample_images/classify1.jpg" width="30%"><img src="sample_images/stylize1.jpg" width="30%"><img src="sample_images/detect1.jpg" width="30%">
+<img src="screenshots/screenshot1.jpg" width="30%"><img src="screenshots/screenshot2.jpg" width="30%"><img src="screenshots/screenshot3.jpg" width="30%">
 
 ## Prebuilt Components:
 
