@@ -77,7 +77,7 @@ public class UploadActivity extends AppCompatActivity {
 
     private static int INPUT_SIZE = 800;
     private static final String TF_OD_API_MODEL_FILE =
-            "file:///android_asset/faster_rcnn_resnet101.pb";
+            "file:///android_asset/faster_rcnn_buttons_graph.pb";
     private static final String TF_OD_API_LABELS_FILE = "file:///android_asset/button_detect_label.txt";
     private static final float MINIMUM_CONFIDENCE_TF_OD_API = 0.6f;
 
