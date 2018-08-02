@@ -76,8 +76,11 @@ for more details.
 Few important pointers that we should know:
 
     The core of the TensorFlow is written in c++.
-    In order to build for Android, we have to use JNI(Java Native Interface) to call the c++ functions like loadModel, getPredictions, etc.
-    We will have a .so(shared object) file which is a c++ compiled file and a jar file which will consist of JAVA API that will be calling the native c++. And then, we will be calling the JAVA API to get things done easily.
+    In order to build for Android, we have to use JNI(Java Native Interface) to call 
+    the c++ functions like loadModel, getPredictions, etc.
+    We will have a .so(shared object) file which is a c++ compiled file and a jar file
+    which will consist of JAVA API that will be calling the native c++. And then, 
+    we will be calling the JAVA API to get things done easily.
     So, we need the jar(Java API) and a .so(c++ compiled) file.
     We must have the pre-trained model file and a label file for the classification
 
