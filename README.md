@@ -1,4 +1,5 @@
-# TensorFlow Android Camera Demo with Button Case implementation
+# TensorFlow Android Camera Demo 
+## With Button case implementation - Detecting in the client side
 
 This folder contains an example application utilizing TensorFlow for Android
 devices.
