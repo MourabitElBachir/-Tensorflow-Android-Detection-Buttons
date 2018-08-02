@@ -71,7 +71,7 @@ for more details.
 
 ## Running the Demo
 
-# 1 - Explanations
+### 1 - Explanations
 
 Few important pointers that we should know:
 
@@ -81,7 +81,7 @@ Few important pointers that we should know:
     So, we need the jar(Java API) and a .so(c++ compiled) file.
     We must have the pre-trained model file and a label file for the classification
 
-# 2 - Procedures:
+### 2 - Procedures:
 
     First clone the tensorflow android repo from this link and store in your project folder:
 
