@@ -128,8 +128,7 @@ Few important pointers that we should know:
 
 ### 3 - Results
 
-<img src="screenshots/screenshot1.png" width="30%"/> <img src="screenshots/screenshot2.png" width="30%"/> <img src="screenshots/screenshot3.png" width="30%"/>
-
+<img src="screenshots/screenshot4.png" width="30%"/> <img src="screenshots/screenshot5.png" width="30%"/> <img src="screenshots/screenshot6.png" width="30%"/>
 
 Once the app is installed it can be started via the "***Detection des boutons | Tensorflow***" icon, which have the orange TensorFlow logo as
 their icon.
