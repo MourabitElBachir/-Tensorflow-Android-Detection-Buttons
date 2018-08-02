@@ -33,9 +33,8 @@ on API >= 14 devices.
 ## Current samples:
 
 1. [Detection des boutons | Tensorflow : enabled](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/android/src/org/tensorflow/demo/ClassifierActivity.java):
-        Uses the [Google Inception](https://arxiv.org/abs/1409.4842)
-        model to classify camera frames in real-time, displaying the top results
-        in an overlay on the camera image.
+        Demonstrates an Faster-RCNN model trained using the
+        model to classify camera uploded or taken images, with displaying the recognition results.
 
 2. [TF Classify : disabled](https://github.com/tensorflow/tensorflow/blob/master/tensorflow/examples/android/src/org/tensorflow/demo/ClassifierActivity.java):
         Uses the [Google Inception](https://arxiv.org/abs/1409.4842)
