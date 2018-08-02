@@ -108,13 +108,13 @@ Few important pointers that we should know:
    
    7- Click the libandroid_tensorflow_inference_java.jar and choose “Add As Library”
    
-      ![](screenshots/android1.png)
+   ![](screenshots/android1.png)
       
    8- Click the libtensorflow_inference.so and choose Link C++ Project with Gradle . Then a CMake dialog box opens give 
       the path of the CMake.txt .Refer the below image
    
-      ![](screenshots/android2.png)
-      ![](screenshots/android3.png)
+   ![](screenshots/android2.png)
+   ![](screenshots/android3.png)
       
    9- Give your model path and label path to your project, if you have changed there names .
       Go to ***src>UploadActivity.java*** in your project and change the path as if in the image below
