@@ -86,13 +86,13 @@ Few important pointers that we should know:
 
 ### 2 - Procedures:
 
-    First clone the tensorflow android repo from this link and store in your project folder:
+    1- First clone the tensorflow android repo from this link and store in your project folder:
 
-    git clone –recurse-submodules https://github.com/tensorflow/tensorflow.git
+        `git clone –recurse-submodules <THIS-GITHUB-REPO>`
 
-    Get installed Android Studio
+    2- Get installed Android Studio
 
-    Download the latest version of the NDK
+    3- Download the latest version of the NDK
 
 
 
