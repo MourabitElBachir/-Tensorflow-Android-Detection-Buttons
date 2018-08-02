@@ -104,14 +104,14 @@ Few important pointers that we should know:
       and Click open the existing project and navigate to : tensorflow/tensorflow/example/android and open it.You have 
       the pre-built Tensorflow demo modues applied in the android application .
       
-   6-  Move your faster_rcnn_buttons_graph.pb(model file) and button_detect_label.txt (label file) to assets folder under your app project.
+   6-  Move your **faster_rcnn_buttons_graph.pb(model file)** and **button_detect_label.txt(label file)** to assets folder under your app project.
    
-   7- Click the libandroid_tensorflow_inference_java.jar and choose “Add As Library”
+   7- Click the **libandroid_tensorflow_inference_java.jar** and choose **“Add As Library”**
    
    ![](screenshots/android1.png)
       
-   8- Click the libtensorflow_inference.so and choose Link C++ Project with Gradle . Then a CMake dialog box opens give 
-      the path of the CMake.txt .Refer the below image
+   8- Click the **libtensorflow_inference.so** and choose **Link C++ Project with Gradle**. Then a CMake dialog box opens give 
+      the path of the **CMake.txt** .Refer the below image
    
    ![](screenshots/android2.png)
    ![](screenshots/android3.png)
