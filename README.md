@@ -103,7 +103,7 @@ Few important pointers that we should know:
       and move it to the temp_folder and rename it as faster_rcnn_buttons_graph.pb
 
 
-Once the app is installed it can be started via the "Detection des boutons | Tensorflow" icon, which have the orange TensorFlow logo as
+Once the app is installed it can be started via the "***Detection des boutons | Tensorflow***" icon, which have the orange TensorFlow logo as
 their icon.
 
 
