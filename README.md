@@ -54,6 +54,9 @@ on API >= 14 devices.
     for a small set of words, and highlights them in the UI when they are
     recognized.
         
+
+**Examples of the Upload and Take Images detection (Buttons Detection Case) :**  
+       
 <img src="screenshots/screenshot1.jpg" width="30%"><img src="screenshots/screenshot2.jpg" width="30%"><img src="screenshots/screenshot3.jpg" width="30%">
 
 ## Prebuilt Components:
