@@ -86,13 +86,18 @@ Few important pointers that we should know:
 
 ### 2 - Procedures:
 
-    1- First clone the tensorflow android repo from this link and store in your project folder:
+   1- First clone the tensorflow android repo from this link and store in your project folder:
 
-        `git clone –recurse-submodules <THIS-GITHUB-REPO>`
+    git clone –recurse-submodules <THIS-GITHUB-REPO>`
 
-    2- Get installed Android Studio
+   2- Get installed Android Studio
 
-    3- Download the latest version of the NDK
+   3- Download the latest version of the NDK
+
+   4- Create a temp_folder and create a object_label.txt and type (??? important at the head of the file, because we have just one class) :
+    
+    ???
+    Button
 
 
 
