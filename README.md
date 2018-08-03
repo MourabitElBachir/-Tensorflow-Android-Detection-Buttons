@@ -84,7 +84,7 @@ Few important pointers that we should know:
 
    1- First clone the tensorflow android repo from this link and store in your project folder:
 
-    git clone –recurse-submodules <THIS-GITHUB-REPO>`
+    git clone <THIS-GITHUB-REPO>
 
    2- Get installed Android Studio
 
